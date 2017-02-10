@@ -1,0 +1,1 @@
+some bit tricks for 64-bit integers
